@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Felipe Schambach 
+- 👀 I’m interested in software development, Linux OS and cybersecurity 
+- 🌱 I’m currently learning JS 
+- 💞️ I’m looking to collaborate on projects of software development and everything I can help about engeneering or more specific mechanic engeneering 
+- 📫 How to reach me, just message in linkedin www.linkedin.com/in/felipe-schambach
