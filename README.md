@@ -10,6 +10,7 @@
 ![vsc](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/70px-Visual_Studio_Code_1.35_icon.svg.png "vsc")
 ![intellij](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/70px-IntelliJ_IDEA_Icon.svg.png "intellij")
 ![linux](https://img.icons8.com/color/80/000000/linux--v1.png "linux")
+![git](https://img.icons8.com/color/80/000000/git.png "git")
 
 ### I’m currently learning: ###
 ![java](https://img.icons8.com/color/90/000000/java-coffee-cup-logo--v1.png "java")
