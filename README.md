@@ -1,6 +1,6 @@
 
 ## Hi, ![](https://img.icons8.com/emoji/30/000000/vulcan-salute-medium-light-skin-tone.png) I’m Felipe Schambach ##
-[Whatsapp](https://wa.me/573014594288) / [Telegram](https://t.me/fschambacht) / [linkedin](www.linkedin.com/in/felipe-schambach)
+[<img alt="LinkedIn" width="50" height="50" src="https://img.icons8.com/fluent/1000/000000/linkedin.png" />](www.linkedin.com/in/felipe-schambach) [<img alt="LinkedIn" width="50" height="50" src="https://img.icons8.com/office/1000/000000/whatsapp--v1.png" />](https://wa.me/573014594288) [<img alt="LinkedIn" width="50" height="50" src="https://img.icons8.com/color/1000/000000/telegram-app--v1.png" />](https://t.me/fschambacht)
 
 ### My work tools ###
 ![python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/80px-Python-logo-notext.svg.png "python")
@@ -17,7 +17,7 @@
 ![js](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/70px-Unofficial_JavaScript_logo_2.svg.png "js")
 
 ### 👀 I’m interested in: ###
-- Fullstack with emphasis in backed
+- Fullstack with emphasis in backend
 - Linux OS 
 - cybersecurity 
 
@@ -25,5 +25,3 @@
 
 ## GitHub Stats ##
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fschambacht&show_icons=true&hide_border=false&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=fschambacht)
