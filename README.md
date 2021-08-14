@@ -17,7 +17,7 @@
 ![java](https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v1.png "java")
 ![js](https://img.icons8.com/color/80/000000/javascript--v1.png)
 
-### 👀 I’m interested in: ###
+## ![](https://img.icons8.com/dotty/45/ffffff/personal-growth.png) I’m interested in: ##
 - Fullstack with emphasis in backend
 - Linux OS 
 - cybersecurity 
