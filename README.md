@@ -25,4 +25,4 @@
 ### I’m looking to work as frontend or backend developer and collaborate on projects of software development ###
 
 ## GitHub Stats ##
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fschambacht&show_icons=true&hide_border=false&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fschambacht&show_icons=true&theme=dark)
