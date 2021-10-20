@@ -1,9 +1,24 @@
+## Hi, ![](https://img.icons8.com/emoji/30/000000/vulcan-salute-medium-light-skin-tone.png) I’m Felipe Schambach 
 <div align="center">
-  
-## Hi, ![](https://img.icons8.com/emoji/30/000000/vulcan-salute-medium-light-skin-tone.png) I’m Felipe Schambach ##
+  <img alt="LinkedIn"  height=200px src="https://i1.wp.com/codemyui.com/wp-content/uploads/2018/07/Lightsaber-Progress-Bar.gif?w=880&ssl=1" />
+</div>
+
+## How to contact me:
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/felipe-schambach) [<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/573014594288) [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/fschambacht)
 
-### My work tools ###
+### About me
+<div align="justify">backend developer, mechanical engineer and retired military. Passionate about technology, software development and exact sciences. I have experience with teamwork, attention to detail, adaptation to change, and continuous learning. I would like to work in software development as a backend in projects with great technological impact.</div>
+
+### Projects
+
+<div align="justify">I like working on projects that require me to research and reinforce my knowledge, I feel very comfortable developing with javascript (node.js) mainly but java and python are languages that have my interest.</div>
+
+- https://github.com/fschambacht?tab=repositories
+
+## My work tools ###
+
+<div align="center">
+
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,18 +34,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![mongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 
+</div>
+  
 ### I’m currently learning: ###
+
+<div align="center">
+
 ![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-
-## ![](https://img.icons8.com/dotty/45/ffffff/personal-growth.png) I’m interested in: ##
-- Fullstack with emphasis in backend
-- Linux OS 
-- cybersecurity 
-
-### I’m looking to work as frontend or backend developer and collaborate on projects of software development ###
 
 ## GitHub Stats ##
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fschambacht&show_icons=true&theme=dark)
