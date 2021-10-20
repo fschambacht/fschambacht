@@ -45,5 +45,10 @@
 
 </div>
 
-## GitHub Stats ##
+## GitHub Stats 
+
+<div align="center">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fschambacht&show_icons=true&theme=dark)
+
+</div>
