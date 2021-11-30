@@ -12,7 +12,7 @@
 
 ### About me!
 
-<div align="justify">backend developer, mechanical engineer and retired military. Passionate about technology, software development and exact sciences. I have experience with teamwork, attention to detail, adaptation to change, and continuous learning. I would like to work in software development as a backend in projects with great technological impact.</div>
+<div align="justify">backend developer, mechanical engineer and retired military. Passionate about technology, software development and exact sciences. Oriented to web development with an interest in developing scalable projects where I can contribute throughout the development cycle, applying agile SCRUM methodologies; I have done API Rest projects with NodeJS using express incorporating CRUD with databases like MongoDB, formed in JavaScript, Python and Java languages; With Java I developed applications with the OOP and CRUD paradigm with MySQL. In Front End I have developed static and dynamic pages with mobile first methodology using the technologies of semantic HTML, CSS with Grid and Flex and JavaScript.</div>
 
 ### Projects
 
