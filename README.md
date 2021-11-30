@@ -1,12 +1,17 @@
 ## Hi, ![](https://img.icons8.com/emoji/30/000000/vulcan-salute-medium-light-skin-tone.png) I’m Felipe Schambach 
 <div align="center">
-  <img alt="LinkedIn"  height=200px src="https://i1.wp.com/codemyui.com/wp-content/uploads/2018/07/Lightsaber-Progress-Bar.gif?w=880&ssl=1" />
+
+![Banner_1](https://user-images.githubusercontent.com/82744806/143981887-34163402-e76a-46ad-b2f4-0ab63b1092dd.jpg)
+<!---
+![Banner_2](https://user-images.githubusercontent.com/82744806/143982231-97c0e23e-d0b3-47ef-b6ba-08f2753d67d4.jpg)
+-->
 </div>
 
 ## How to contact me:
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/felipe-schambach) [<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/573014594288) [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/fschambacht)
 
-### About me
+### About me!
+
 <div align="justify">backend developer, mechanical engineer and retired military. Passionate about technology, software development and exact sciences. I have experience with teamwork, attention to detail, adaptation to change, and continuous learning. I would like to work in software development as a backend in projects with great technological impact.</div>
 
 ### Projects
