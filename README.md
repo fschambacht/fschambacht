@@ -12,11 +12,11 @@
 
 ### About me!
 
-<div align="justify">backend developer, mechanical engineer and retired military. Passionate about technology, software development and exact sciences. Oriented to web development with an interest in developing scalable projects where I can contribute throughout the development cycle, applying agile SCRUM methodologies; I have done API Rest projects with NodeJS using express incorporating CRUD with databases like MongoDB, formed in JavaScript, Python and Java languages; With Java I developed applications with the OOP and CRUD paradigm with MySQL. In Front End I have developed static and dynamic pages with mobile first methodology using the technologies of semantic HTML, CSS with Grid and Flex and JavaScript.</div>
+<div align="justify">backend developer, mechanical engineer and retired military. Passionate about technology, software development and exact sciences. oriented to web development with an interest in developing scalable projects where I can contribute throughout the development cycle, applying SCRUM methodology; I have made Rest API projects with NodeJS using EXPRESS and Python using fastAPI, incorporating CRUD with MongoDB, I'm trained in the programming languages of Python, Java, and JavaScript; in Java I developed applications with OOP and CRUD paradigm with MySQL. In Front End I've developed static and dynamic pages with mobile first methodology using semantic HTML, CSS with Grid and Flex and JavaScript technologies.</div>
 
 ### Projects
 
-<div align="justify">I like working on projects that require me to research and reinforce my knowledge, I feel very comfortable developing with javascript (node.js) mainly but java and python are languages that have my interest.</div>
+<div align="justify">I like working on projects that require me to research and reinforce my knowledge, I feel very comfortable developing with JavaScript (node.js with EXPRESS) and Python (fastAPI) mainly, but java language have my interest too.</div>
 
 - https://github.com/fschambacht?tab=repositories
 
@@ -54,7 +54,7 @@
 <div align="center">
 
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 </div>
