@@ -1,10 +1,10 @@
 ## Hi, ![](https://img.icons8.com/emoji/30/000000/vulcan-salute-medium-light-skin-tone.png) I’m Felipe Schambach 
 <div align="center">
 
-![Banner_1](https://user-images.githubusercontent.com/82744806/143981887-34163402-e76a-46ad-b2f4-0ab63b1092dd.jpg)
 <!---
-![Banner_2](https://user-images.githubusercontent.com/82744806/143982231-97c0e23e-d0b3-47ef-b6ba-08f2753d67d4.jpg)
+![Banner_1](https://user-images.githubusercontent.com/82744806/143981887-34163402-e76a-46ad-b2f4-0ab63b1092dd.jpg)
 -->
+![Banner_2](https://user-images.githubusercontent.com/82744806/143982231-97c0e23e-d0b3-47ef-b6ba-08f2753d67d4.jpg)
 </div>
 
 ## How to contact me:
@@ -12,11 +12,11 @@
 
 ### About me!
 
-<div align="justify">backend developer, mechanical engineer and retired military. Passionate about technology, software development and exact sciences. oriented to web development with an interest in developing scalable projects where I can contribute throughout the development cycle, applying SCRUM methodology; I have made Rest API projects with NodeJS using EXPRESS and Python using fastAPI, incorporating CRUD with MongoDB, I'm trained in the programming languages of Python, Java, and JavaScript; in Java I developed applications with OOP and CRUD paradigm with MySQL. In Front End I've developed static and dynamic pages with mobile first methodology using semantic HTML, CSS with Grid and Flex and JavaScript technologies.</div>
+<div align="justify">backend developer, mechanical engineer and retired military. Passionate about technology, software development and exact sciences. oriented to web development with an interest in developing scalable projects on web 2.0 and 3.0 where I can contribute throughout the development cycle, applying agile methodology project management frameworks; I have made Rest API projects with C#, python and NodeJS using .NET, FastAPI and EXPRESS, incorporating CRUD with SQL Server and MongoDB, I'm trained in the programming languages of C#, Python, Java, and JavaScript; I have developed applications with OOP and CRUD paradigm with SQL. In Front End I've developed static and dynamic pages with mobile first methodology using semantic HTML, CSS with Grid and Flex and JavaScript technologies.</div>
 
 ### Projects
 
-<div align="justify">I like working on projects that require me to research and reinforce my knowledge, I feel very comfortable developing with JavaScript (node.js with EXPRESS) and Python (fastAPI) mainly, but java language have my interest too.</div>
+<div align="justify">I would like to work on projects that require me to research and reinforce my knowledge, I feel very comfortable developing with object-oriented, and type-safe programming languages.</div>
 
 - https://github.com/fschambacht?tab=repositories
 
@@ -24,8 +24,9 @@
 
 <div align="center">
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -33,6 +34,8 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![fastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![mongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,7 +50,6 @@
 ![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![zsh](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
 
-
 </div>
   
 ### I’m currently learning: ###
@@ -56,8 +58,7 @@
 
 <!-- ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) -->
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
 
 </div>
